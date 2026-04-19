@@ -6,8 +6,10 @@ To coś miało przyjmować graf i przekładać go na kod, wyszło na połowę, r
 
 ![plot](user_csv_plot.png)
 
-![image](  <img width="960" height="1280" alt="photo_2026-04-19_21-54-59" src="https://github.com/user-attachments/assets/c49a428a-9542-4335-aacc-717e9f0a6ddc" />
+![image](<img width="1280" height="960" alt="photo_2026-04-19_21-55-04" src="https://github.com/user-attachments/assets/8c713a51-523f-47ae-8afa-9dddca08678a" />
+<img width="960" height="1280" alt="photo_2026-04-19_21-54-59" src="https://github.com/user-attachments/assets/e3b34a70-fe16-4493-a417-4e1f03079b26" />
+
 )
 
-![screenshot]( <img width="1280" height="960" alt="photo_2026-04-19_21-55-04" src="https://github.com/user-attachments/assets/4580926f-7c29-4cb2-94b3-6be0ae15cd07" />
+![screenshot](
 )
